@@ -42,7 +42,6 @@ Speech enhancement, particularly denoising, is vital in improving the intelligib
 <img width="400" height="270" alt="image" src="https://github.com/user-attachments/assets/03481fb1-eb1b-42be-a488-a288b9991536" /> <img width="400" height="270" alt="image" src="https://github.com/user-attachments/assets/7d34b583-f813-4df7-8484-777f03541124" />
 
 
-
 # Contacts
 Please contact _mkhondka@charlotte.edu_ or open an issue for any questions or suggestions.
 

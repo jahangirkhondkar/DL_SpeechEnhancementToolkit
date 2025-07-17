@@ -7,28 +7,38 @@ Speech enhancement, particularly denoising, is vital in improving the intelligib
 
 1. The waveform comparison of a common subject across all three models is-
 
-**Wave-U-Net**   <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/e48f27b3-19cb-4529-a501-8f4a46989258" />
-
-**CMGAN**        <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/99ad39bc-01f1-4504-adb0-78c657ed8cd5" />
-
-**U-Net**        <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/decef45e-b48c-41e1-9d7e-b352e7171a98" />
-
-2. The spectrogram comparison of the same subject across all three models-
-3. 
 **Wave-U-Net**
 
-<img width="491" height="328" alt="image" src="https://github.com/user-attachments/assets/7745561d-e074-4cbe-881e-7aee17a20a12" /> <img width="491" height="327" alt="image" src="https://github.com/user-attachments/assets/7e7c9bbf-c108-4d67-a137-83ff46fbe20e" />
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/e48f27b3-19cb-4529-a501-8f4a46989258" />
+
+
+**CMGAN**
+
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/99ad39bc-01f1-4504-adb0-78c657ed8cd5" />
+
+
+**U-Net**
+
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/decef45e-b48c-41e1-9d7e-b352e7171a98" />
+
+
+2. The spectrogram comparison of the same subject across all three models-
+
+
+**Wave-U-Net**
+
+<img width="491" height="328" alt="image" src="https://github.com/user-attachments/assets/7745561d-e074-4cbe-881e-7aee17a20a12" /> <img width="491" height="328" alt="image" src="https://github.com/user-attachments/assets/7e7c9bbf-c108-4d67-a137-83ff46fbe20e" />
 
 
 
 **CMGAN**
 
-<img width="483" height="321" alt="image" src="https://github.com/user-attachments/assets/b40cdc63-0269-462f-8390-6fa8d94f9f72" /> <img width="482" height="322" alt="image" src="https://github.com/user-attachments/assets/a876176e-45e7-4ccd-b88c-1ff71a8265d6" />
+<img width="491" height="328" alt="image" src="https://github.com/user-attachments/assets/b40cdc63-0269-462f-8390-6fa8d94f9f72" /> <img width="491" height="328" alt="image" src="https://github.com/user-attachments/assets/a876176e-45e7-4ccd-b88c-1ff71a8265d6" />
 
 
 
 **U-Net**
-<img width="483" height="321" alt="image" src="https://github.com/user-attachments/assets/03481fb1-eb1b-42be-a488-a288b9991536" /> <img width="482" height="321" alt="image" src="https://github.com/user-attachments/assets/7d34b583-f813-4df7-8484-777f03541124" />
+<img width="491" height="328" alt="image" src="https://github.com/user-attachments/assets/03481fb1-eb1b-42be-a488-a288b9991536" /> <img width="491" height="328" alt="image" src="https://github.com/user-attachments/assets/7d34b583-f813-4df7-8484-777f03541124" />
 
 
 

@@ -27,7 +27,7 @@ Speech enhancement, particularly denoising, is vital in improving the intelligib
 
 **Wave-U-Net**
 
-<img width="445" height="300" alt="image" src="https://github.com/user-attachments/assets/7745561d-e074-4cbe-881e-7aee17a20a12" /> <img width="445" height="300" alt="image" src="https://github.com/user-attachments/assets/7e7c9bbf-c108-4d67-a137-83ff46fbe20e" />
+<img width="440" height="300" alt="image" src="https://github.com/user-attachments/assets/7745561d-e074-4cbe-881e-7aee17a20a12" /> <img width="440" height="300" alt="image" src="https://github.com/user-attachments/assets/7e7c9bbf-c108-4d67-a137-83ff46fbe20e" />
 
 
 

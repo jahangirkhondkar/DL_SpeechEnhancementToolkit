@@ -33,13 +33,13 @@ Speech enhancement, particularly denoising, is vital in improving the intelligib
 
 **CMGAN**
 
-<img width="491" height="328" alt="image" src="https://github.com/user-attachments/assets/b40cdc63-0269-462f-8390-6fa8d94f9f72" /> <img width="491" height="328" alt="image" src="https://github.com/user-attachments/assets/a876176e-45e7-4ccd-b88c-1ff71a8265d6" />
+<img width="400" height="270" alt="image" src="https://github.com/user-attachments/assets/b40cdc63-0269-462f-8390-6fa8d94f9f72" /> <img width="400" height="270" alt="image" src="https://github.com/user-attachments/assets/a876176e-45e7-4ccd-b88c-1ff71a8265d6" />
 
 
 
 **U-Net**
 
-<img width="491" height="328" alt="image" src="https://github.com/user-attachments/assets/03481fb1-eb1b-42be-a488-a288b9991536" /> <img width="491" height="328" alt="image" src="https://github.com/user-attachments/assets/7d34b583-f813-4df7-8484-777f03541124" />
+<img width="400" height="270" alt="image" src="https://github.com/user-attachments/assets/03481fb1-eb1b-42be-a488-a288b9991536" /> <img width="400" height="270" alt="image" src="https://github.com/user-attachments/assets/7d34b583-f813-4df7-8484-777f03541124" />
 
 
 

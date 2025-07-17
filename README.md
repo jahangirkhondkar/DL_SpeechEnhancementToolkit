@@ -7,11 +7,11 @@ Speech enhancement, particularly denoising, is vital in improving the intelligib
 
 1. The waveform comparison of a common subject across all three models is-
 
-**Wave-U-Net** <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/e48f27b3-19cb-4529-a501-8f4a46989258" />
+**Wave-U-Net**   <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/e48f27b3-19cb-4529-a501-8f4a46989258" />
 
-**CMGAN** <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/99ad39bc-01f1-4504-adb0-78c657ed8cd5" />
+**CMGAN**        <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/99ad39bc-01f1-4504-adb0-78c657ed8cd5" />
 
-**U-Net** <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/decef45e-b48c-41e1-9d7e-b352e7171a98" />
+**U-Net**        <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/decef45e-b48c-41e1-9d7e-b352e7171a98" />
 
 
 # Contacts
